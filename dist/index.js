@@ -523,7 +523,7 @@ function delay(ms) {
 }
 
 // src/providers/LaserEyesProvider.tsx
-var import_sats_connect = require("sats-connect");
+var import_sats_connect = __toESM(require("sats-connect"));
 var import_address = require("bitcoinjs-lib/src/address");
 var import_axios2 = __toESM(require("axios"));
 var import_jsx_runtime = require("react/jsx-runtime");
